@@ -1,0 +1,19 @@
+# Python / venv / PyTorch
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.db
+
+# Node / Vite
+node_modules/
+dist/
+.env.local
+.env.*.local
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+all_crops/
